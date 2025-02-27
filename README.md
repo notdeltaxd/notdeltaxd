@@ -40,7 +40,7 @@ Always curious, always learning 💪
 ### 📫 Connect with me
 <div align="center">
 <a href="https://discord.com/users/1072062695093846057">
-<img src="https://discord.c99.nl/widget/theme-3/1072062695093846057.png" alt="Discord Profile"/>
+<img src="https://api.profilinator.dev/discord/theme-3/1072062695093846057" alt="Discord Profile"/>
 </a>
 </div>
 
