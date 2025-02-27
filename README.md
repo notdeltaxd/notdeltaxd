@@ -1,11 +1,23 @@
 <h1 align="center">Hey 👋, I'm Delta</h1>
-<h3 align="center">Self-Taught Developer | Owner of <a href="https://felyxmusic.vercel.app" target="_blank">Felyx Music 🎶</a> | From India 🇮🇳</h3>
+<h3 align="center">Self-Taught Developer | Passionate Coder | Tech Enthusiast 📄</h3>
 
 <p align="center">
 Turning ideas into <strong>functional projects</strong> 🚀  
-Passionate about <strong>Discord Bots</strong>, <strong>Backend Systems</strong> & <strong>Web Development</strong>  
-Curious to learn everything tech 📄
+Curious mind exploring the world of <strong>Backend Systems</strong>, <strong>Web Development</strong>, and <strong>Discord Bots</strong>  
+Learning one line of code at a time 💪
 </p>
+
+<hr/>
+
+<h2>🎯 About Me</h2>
+<ul>
+<li>👨‍💻 Self-Taught Developer from <strong>India 🇮🇳</strong></li>
+<li>🛠️ Owner & Developer of <a href="https://felyxmusic.vercel.app" target="_blank"><strong>Felyx Music 🎶</strong></a></li>
+<li>💪 Passionate about <strong>Discord Bots</strong> & <strong>Community Management</strong></li>
+<li>🌐 Exploring <strong>Web Development</strong> & <strong>Backend Systems</strong></li>
+<li>📄 Always curious to learn <strong>new technologies</strong> & improve everyday</li>
+<li>🤝 Open to <strong>collaborations</strong> & connecting with other developers</li>
+</ul>
 
 <hr/>
 
@@ -27,17 +39,6 @@ Curious to learn everything tech 📄
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,go,rust,java" alt="Curious to Learn"/>
 </div>
-
-<hr/>
-
-<h2>🎯 About Me</h2>
-<ul>
-<li>Owner & Developer of <a href="https://felyxmusic.vercel.app" target="_blank"><strong>Felyx Music</strong></a></li>
-<li>Passionate about <strong>Discord Bots</strong> & <strong>Community Management</strong></li>
-<li>Exploring <strong>Web Development</strong> & <strong>Backend Systems</strong></li>
-<li>Self-Taught Developer, Learning One Line of Code at a Time</li>
-<li>Open to <strong>collaborations</strong> & new ideas</li>
-</ul>
 
 <hr/>
 
