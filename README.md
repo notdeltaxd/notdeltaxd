@@ -44,11 +44,11 @@ Curious to learn everything tech 🔥
 <a href="https://discord.com/users/1072062695093846057">
 <img src="https://img.shields.io/badge/Discord-2d77dc?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+<a href="mailto:work.notdelta@gmail.com">
+<img src="https://img.shields.io/badge/Email-2d77dc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://github.com/notdeltaxd">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://felyxmusic.vercel.app">
-<img src="https://img.shields.io/badge/Felyx-2d77dc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
 </a>
 </div>
 
