@@ -3,44 +3,52 @@
 
 <p align="center">
 Turning ideas into <strong>functional projects</strong> 🚀  
-Always curious, always learning 💪
+Passionate about **Discord Bots**, **Backend Systems**, and **Web Development**  
+Curious to learn everything tech 🔥
 </p>
 
 ---
 
 ### 💻 Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,mysql,prisma" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,mysql,prisma" alt="Tech Stack" />
 </div>
 
 ---
 
 ### 🌱 Currently Learning
 <div align="center">
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs" alt="Learning"/>
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs" alt="Currently Learning"/>
 </div>
 
 ---
 
 ### 🔍 Curious to Learn
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,go,rust,java" alt="Curious"/>
+<img src="https://skillicons.dev/icons?i=python,c,go,rust,java" alt="Curious to Learn"/>
 </div>
 
 ---
 
 ### 🎯 About Me
-- 🛠️ Owner & Developer of **[Felyx Music](https://felyxmusic.vercel.app)**
-- 💪 Passionate about **Discord Bots** & **Community Management**
-- 🌐 Exploring **Web Development** & **Backend Systems**
-- 💬 Always open to **collaborations** & new ideas!
+- 🛠️ Owner & Developer of **[Felyx Music](https://felyxmusic.vercel.app)**  
+- 💪 Passionate about **Discord Bots** & **Community Management**  
+- 🌐 Exploring **Web Development** & **Backend Systems**  
+- 💬 Always open to **collaborations** & new ideas!  
+- 🎯 Self-Taught Developer, Learning One Line of Code at a Time  
 
 ---
 
 ### 📫 Connect with me
 <div align="center">
 <a href="https://discord.com/users/1072062695093846057">
-<img src="https://api.lanyard.rest/1072062695093846057?bg=0d1117&border=2d77dc&animated=true&borderRadius=15px" alt="Delta Discord Profile"/>
+<img src="https://img.shields.io/badge/Discord-2d77dc?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://github.com/notdeltaxd">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://felyxmusic.vercel.app">
+<img src="https://img.shields.io/badge/Felyx-2d77dc?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
 </a>
 </div>
 
