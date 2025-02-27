@@ -40,7 +40,7 @@ Always curious, always learning 💪
 ### 📫 Connect with me
 <div align="center">
 <a href="https://discord.com/users/1072062695093846057">
-<img src="https://api.profilinator.dev/discord/theme-3/1072062695093846057" alt="Discord Profile"/>
+<img src="https://api.lanyard.rest/1072062695093846057?bg=0d1117&border=2d77dc&animated=true&borderRadius=15px" alt="Delta Discord Profile"/>
 </a>
 </div>
 
