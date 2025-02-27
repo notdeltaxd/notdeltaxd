@@ -40,16 +40,7 @@ Always curious, always learning 💪
 ### 📫 Connect with me
 <div align="center">
 <a href="https://discord.com/users/1072062695093846057">
-<img src="https://lanyard.cnrad.dev/api/1072062695093846057?theme=dark&borderRadius=15px" alt="Discord Profile"/>
-</a>
-</div>
-
----
-
-### 🎧 Now Playing
-<div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31qkmbtrgu5uynk3qjlcfrrbz4v4&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qkmbtrgu5uynk3qjlcfrrbz4v4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="60%"/>
+<img src="https://discord.c99.nl/widget/theme-3/1072062695093846057.png" alt="Discord Profile"/>
 </a>
 </div>
 
@@ -58,7 +49,7 @@ Always curious, always learning 💪
 ### 🔥 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=notdeltaxd&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=notdeltaxd&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=notdeltaxd&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 ---
