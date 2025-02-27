@@ -65,7 +65,7 @@ Learning one line of code at a time 💪
 
 <hr/>
 
-<h2>🧠 Delta's Coding Motto</h2>
+<h2>🧠 My Coding Motto</h2>
 <blockquote align="center">
-Build what you <strong>love</strong>, one line of code at a time 📄
+Build what I <strong>love</strong>, one line of code at a time 📄
 </blockquote>
