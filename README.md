@@ -10,40 +10,44 @@ Always curious, always learning 💪
 
 ### 💻 Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,mysql,prisma" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,mysql,prisma" alt="Tech Stack" />
+</div>
+
+---
+
+### 🌱 Currently Learning
+<div align="center">
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs" alt="Learning" />
 </div>
 
 ---
 
 ### 🔍 Curious to Learn
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,go,rust,java" />
+<img src="https://skillicons.dev/icons?i=python,c,go,rust,java" alt="Learning Soon" />
 </div>
 
 ---
 
-### 🎧 Now Playing
-<div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31qkmbtrgu5uynk3qjlcfrrbz4v4&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qkmbtrgu5uynk3qjlcfrrbz4v4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="60%" />
-</a>
-</div>
+### 🎯 About Me
+- 🛠️ Owner & Developer of **[Felyx Music](https://felyxmusic.vercel.app)**
+- 💪 Passionate about **Discord Bots** & **Community Management**
+- 🌐 Exploring **Web Development** & **Backend Systems**
+- 💬 Always open to **collaborations** & new ideas!
 
 ---
 
 ### 📫 Connect with me
-<div align="center">
+<p align="center">
 <a href="https://discord.com/users/1072062695093846057">
 <img src="https://discord.c99.nl/widget/theme-3/1072062695093846057.png" alt="Discord Profile"/>
 </a>
-</div>
+</p>
 
 ---
 
-### 🚀 Felyx Music Status
-<div align="center">
-<img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Felyx%20Bot&up_color=green&up_message=online&url=https%3A%2F%2Ffelyxmusic.vercel.app" />
-</div>
+### 🧠 Delta's Coding Motto
+> Build what you **love**, one line of code at a time 💜
 
 ---
 
@@ -52,8 +56,3 @@ Always curious, always learning 💪
 <img src="https://github-readme-stats.vercel.app/api?username=notdeltaxd&show_icons=true&theme=radical" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notdeltaxd&theme=radical" alt="GitHub Streak"/>
 </div>
-
----
-
-### 🧠 Delta's Coding Motto
-> Code what you love, learn what you don't 💜
