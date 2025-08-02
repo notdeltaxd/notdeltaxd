@@ -18,7 +18,6 @@
   </p>
 </div>
 
----
 
 ## <div align="center">💫 About Me</div>
 
@@ -45,7 +44,6 @@
   </tr>
 </table>
 
----
 
 ## <div align="center">⚙️ My Tech Ecosystem</div>
 
@@ -65,7 +63,6 @@
   <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=notdeltaxd&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2D77DC&sideLabels=2D77DC&dates=777777&fire=2D77DC&ring=2D77DC&locale=en&type=svg&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
 
----
 
 ## <div align="center">🌟 My Featured Projects</div>
 
@@ -76,25 +73,6 @@
   <p>More projects coming soon...</p>
 </div>
 
----
-
-## <div align="center">🧠 My Coding Philosophy</div>
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-        <blockquote>
-          <p>I build what I <strong>love</strong>, one line of code at a time 📄</p>
-          <p>Simplicity is the ultimate sophistication in development</p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## <div align="center">🔗 Connect With Me</div>
 
