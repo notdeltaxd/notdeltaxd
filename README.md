@@ -30,7 +30,7 @@
     <td width="60%" valign="top">
       <ul>
         <li>👨‍💻 I'm a self-taught developer from <b>India 🇮🇳</b></li>
-        <li>🚀 Owner & Developer of <a href="https://felyxmusic.vercel.app" target="_blank"><b>Felyx Music 🎶</b></a></li>
+        <li>🚀 Owner & Developer of <a href="https://akynbot.vercel.app/" target="_blank"><b>Akyn 🎶</b></a></li>
         <li>🤖 I'm passionate about <b>Discord Bot Development</b></li>
         <li>🌐 Currently exploring <b>Web Development</b> & <b>Backend Systems</b></li>
         <li>📊 Community management enthusiast</li>
@@ -67,7 +67,7 @@
 ## <div align="center">🌟 My Featured Projects</div>
 
 <div align="center">
-  <a href="https://felyxmusic.vercel.app">
+  <a href="https://akynbot.vercel.app">
     <img src="https://img.shields.io/badge/Felyx_Music-Music_Platform-2D77DC?style=for-the-badge&logo=discord&logoColor=white" alt="Felyx Music"/>
   </a>
   <p>More projects coming soon...</p>
