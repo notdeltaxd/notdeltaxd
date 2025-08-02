@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://akynbot.vercel.app">
-    <img src="https://img.shields.io/badge/Felyx_Music-Music_Platform-2D77DC?style=for-the-badge&logo=discord&logoColor=white" alt="Felyx Music"/>
+    <img src="https://img.shields.io/badge/Akyn-Discord_Music_App-2D77DC?style=for-the-badge&logo=discord&logoColor=white" alt="Akyn"/>
   </a>
   <p>More projects coming soon...</p>
 </div>
