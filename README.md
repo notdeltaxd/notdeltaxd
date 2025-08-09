@@ -38,14 +38,12 @@
   </tr>
 </table>
 
-## <div align="center">⚙️ My Tech Ecosystem</div>
+## <div align="center">⚙️ Tech Stack</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,mysql,prisma&perline=4" alt="Core Technologies"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,mongodb,mysql,prisma&perline=6" alt="Tech Stack"/>
   <br>
-  <sub><b>Currently mastering:</b> TypeScript, Next.js</sub>
-  <br>
-  <sub><b>On my radar:</b> Python, C, Go, Rust, Java</sub>
+  <b>JavaScript &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; MongoDB &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; Prisma</b>
 </div>
 
 <br>
@@ -62,7 +60,7 @@
     <img src="https://img.shields.io/badge/Akyn-Discord_Music_App-2D77DC?style=for-the-badge&logo=discord&logoColor=white" alt="Akyn"/>
   </a>
   <br>
-  <sub>More projects coming soon...</sub>
+  <b>More projects coming soon...</b>
 </div>
 
 ## <div align="center">🔗 Connect With Me</div>
