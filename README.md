@@ -23,10 +23,10 @@
 ### 🛠️ Tech I Use Regularly
 
 **Languages & Frameworks:**  
-JavaScript · TypeScript · Node.js · Next.js · React
+JavaScript · TypeScript · Node.js · Next.js · React · Java · Kotlin · C/C++ · GO
 
 **Databases & Tools:**  
-MongoDB · MySQL · Prisma · Git
+MongoDB · MySQL · Prisma · Drizzle · Git · Docker
 
 
 ### 🎵 About Akyn
